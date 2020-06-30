@@ -1,0 +1,156 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    color: dimgray;
+}
+section{
+    height: 970px;
+}
+.name-highlight{
+    color: #EC4C7A;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    padding-top: 100px;
+}
+.content{
+    margin-top: 250px;
+}
+.top-banner h1{
+    margin: 0;
+    padding: 0;
+}
+.top-banner p{
+    margin-top: 40px;
+    margin-bottom: 35px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #EC4FB1,#EC4B75);
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    background-size: 100%;
+}
+.work-section {
+    background-image: url(images/latest-work-bg.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+.work-section h1{
+    text-align: center;
+    margin-top: 150px;
+}
+.work-section .images{
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-right: 5%;
+    padding-right: 2%;
+    margin-top: 80px;
+}
+.work-section img{
+    width: 32.2%;
+    padding-right: 20px;
+}
+#r-p{
+    padding: 0;
+}
+.client-review{
+    background-image: url(images/footer-bg.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: -15px;
+    padding-top: 60px;
+}
+.client-review h1 {
+    font-size: 50px;
+    margin: 70px;
+}
+.client-review h3{
+    
+}
+.client-review p {
+
+}
+#comment {
+    margin-top: 40px;
+    color: black;
+    margin-bottom: 60px;
+}
+#contact {
+    background-image: linear-gradient(45deg, #EC4FB1,#EC4B75);
+    width: 600px;
+    height: 136px;
+    position: relative;
+    left: 37%;
+    border-radius: 5px;
+    color: white;
+}
+#contact p{
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    background-color: white;
+}
+.experience-area h2{
+    text-align: center;
+}
+.experience-area{
+    padding: 2%;
+}
+#full-satck{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, #EC4FB1,#EC4B75);
+    border-image-slice: 1;
+    height: 400px;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, #8F28AF);
+    border-image-slice: 1;
+    height: 400px;
+}
+
+  
